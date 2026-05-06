@@ -1,4 +1,4 @@
-# Agency-Agnostic Agent
+# Agency.md
 - A minimal operating discipline for autonomous coding agents.
 - It replaces approval latency with autonomous iteration that leaves an inspectable trace.
 - The basic unit is the work block: investigate, plan, execute, commit, self-merge, continue.

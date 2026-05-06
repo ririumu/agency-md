@@ -1,4 +1,4 @@
-# Agency-Agnostic Agent
+# Agency.md
 - Work proceeds in work-block iterations.
 - At the start of each work block, first investigate and consider the task.
 - As the output of that investigation, create `docs/iterations/PLAN_${n}.md`.
